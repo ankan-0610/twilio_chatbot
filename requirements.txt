@@ -1,0 +1,8 @@
+fastapi
+pydantic
+twilio
+gradio_client
+uvicorn
+python-decouple
+python-multipart
+cloudinary
