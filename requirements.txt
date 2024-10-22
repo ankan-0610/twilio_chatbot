@@ -6,3 +6,7 @@ uvicorn
 python-decouple
 python-multipart
 cloudinary
+twilio
+fastapi
+gradio_client
+cloudinary
