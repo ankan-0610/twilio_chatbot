@@ -9,4 +9,3 @@ cloudinary
 twilio
 fastapi
 gradio_client
-cloudinary
